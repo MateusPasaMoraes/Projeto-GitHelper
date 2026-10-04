@@ -20,8 +20,10 @@ O **GitHub Team Helper** é uma ferramenta de arquivo único (`.bat`) com interf
 
 Cada ação mostra **o comando Git que será executado**, pede confirmação quando há risco e registra tudo em um **log**. Assim, você usa a ferramenta e aprende Git ao mesmo tempo.
 
-
 > [!NOTE]
+> O Windows pode exibir um aviso do SmartScreen ou do antivírus ao abrir o arquivo, por ser um script `.bat` baixado da internet que executa código PowerShell. Isso é esperado: este projeto **não foi desenvolvido com intenções maliciosas**. Ele não coleta, armazena nem envia dados pessoais, e o código é aberto, podendo ser lido por completo antes de executar.
+>
+> 
 > Este projeto foi desenvolvido com auxílio de ferramentas de inteligência artificial.
 
 ## ✨ Destaques
