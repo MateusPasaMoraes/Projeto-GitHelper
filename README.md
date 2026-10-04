@@ -12,6 +12,7 @@ Aplicativo para Windows com interface gráfica que simplifica o uso de Git e Git
 ![Git](https://img.shields.io/badge/Git-necessário-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-incluído%20no%20Windows-5391FE?logo=powershell&logoColor=white)
 ![Arquivo único](https://img.shields.io/badge/arquivo-único%20.bat-7c3aed)
+![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-22c55e)
 
 </div>
 
