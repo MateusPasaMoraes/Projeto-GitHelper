@@ -1,7 +1,3 @@
-# Projeto-GitHelper
-Aplicativo para Windows com interface gráfica que simplifica o uso de Git e GitHub em equipe. Crie, clone e abra projetos, crie branches, registre alterações, publique e conclua o trabalho com poucos cliques, vendo cada comando Git executado em um log para aprender enquanto usa. Arquivo único .bat, sem instalação.
-
-
 <div align="center">
 
 # 🔀 GitHub Team Helper
@@ -23,6 +19,10 @@ Aplicativo para Windows com interface gráfica que simplifica o uso de Git e Git
 O **GitHub Team Helper** é uma ferramenta de arquivo único (`.bat`) com interface gráfica em Windows Forms. Ela guia o fluxo de trabalho em equipe com Git e GitHub: criar branches, registrar alterações, publicar e integrar na `main`.
 
 Cada ação mostra **o comando Git que será executado**, pede confirmação quando há risco e registra tudo em um **log**. Assim, você usa a ferramenta e aprende Git ao mesmo tempo.
+
+
+> [!NOTE]
+> Este projeto foi desenvolvido com auxílio de ferramentas de inteligência artificial.
 
 ## ✨ Destaques
 
